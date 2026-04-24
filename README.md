@@ -3,7 +3,7 @@
 Blogtizen is a simple blog made with Laravel framework. You can make your own blog or starting for new project with Blogtizen as a template. See the demo to know all features
 
 ## Version
-- Blogtizen: [See release version here](https://github.com/xilladev/blogtizen/releases)
+- Blogtizen: [See release version here](https://github.com/pajarrahmansyah/blogtizen/releases)
 - Laravel: 8.0
 
 ## System Required
@@ -11,7 +11,7 @@ Blogtizen is a simple blog made with Laravel framework. You can make your own bl
 
 ## Simple Installation
 
-1. First, clone this repo `git clone https://github.com/xilladev/blogtizen.git`
+1. First, clone this repo `git clone https://github.com/pajarrahmansyah/blogtizen.git`
 
 2. Move to the terminal. Copy `.env.example` to `.env` in your project directory and set up the environtment with your
 
